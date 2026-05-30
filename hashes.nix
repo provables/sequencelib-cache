@@ -9,6 +9,6 @@
     "4.30.0" = "";
   };
   x86_64-linux = {
-    "4.30.0" = "sha256-dnfytKrSHFpp4tRuhAmR1B6GCqMMwGvP3I7Jp5rQGQI=";
+    "4.30.0" = "sha256-WQSFdwYZQUey2uodIBQQMcY1/s49lroyJuC78KuSwpY=";
   };
 }
